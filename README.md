@@ -2,6 +2,13 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## TODO
+
+Add data persistence (sqlite/mongo/.txt).
+Add styling (css/tailwind).
+Add local host.
+
+
 ## Available Scripts
 
 In the project directory, you can run:
